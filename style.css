@@ -5,6 +5,7 @@ header {
 }
 
 button {
+  font-family: sans-serif;
   text-align: center;
   padding: 3px;
   border-radius: 5px;
