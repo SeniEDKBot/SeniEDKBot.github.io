@@ -1,0 +1,14 @@
+header {
+  text-align: center;
+  font-family: sans-serif;
+  color: lime;
+}
+
+button {
+  padding: 3px;
+  border-radius: 5px;
+  background-color: lime;
+  color: black;
+  font-weight: bold;
+  font-size: large;
+}
